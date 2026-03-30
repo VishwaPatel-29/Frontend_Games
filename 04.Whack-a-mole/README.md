@@ -48,7 +48,7 @@ git clone https://github.com/your-username/whack-a-mole-game.git
 cd whack-a-mole-game
 ```
 
-3. Open `index.html` in your browser:
+3. Open `Whack-a-mole.html` in your browser:
 
 ```bash
 start Whack-a-mole.html
