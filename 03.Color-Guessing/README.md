@@ -48,7 +48,7 @@ git clone https://github.com/your-username/color-guessing-game.git
 cd color-guessing-game
 ```
 
-3. Open `index.html` in your browser:
+3. Open `Colour_Guessing.html` in your browser:
 
 ```bash
 start Colour_Guessing.html
