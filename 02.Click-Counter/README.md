@@ -51,7 +51,7 @@ cd click-counter-game
 3. Open `index.html` in your browser:
 
 ```bash
-start index.html
+start Click_Counter.html
 ```
 
 ---
