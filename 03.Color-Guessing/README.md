@@ -66,7 +66,7 @@ start Colour_Guessing.html
 ---
 🌐 Live Demo
 
-🚀 Play the game here: [Whack-a-mole](https://frontendgame-colorguess-byvishwa.netlify.app/)
+🚀 Play the game here: [Colour-Guessing](https://frontendgame-colorguess-byvishwa.netlify.app/)
 ---
 ---
 
