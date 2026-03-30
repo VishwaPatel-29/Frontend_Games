@@ -50,7 +50,7 @@ cd tic-tac-toe
 3. Open `index.html` in your browser:
 
 ```bash
-start index.html
+start Tic_Tac_Toe.html
 ```
 
 ---
