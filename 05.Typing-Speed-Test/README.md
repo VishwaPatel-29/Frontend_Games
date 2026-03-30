@@ -48,7 +48,7 @@ git clone https://github.com/your-username/typing-speed-test.git
 cd typing-speed-test
 ```
 
-3. Open `index.html` in your browser:
+3. Open `Typing-Speed-Test.html` in your browser:
 
 ```bash
 start Typing-Speed-Test.html
