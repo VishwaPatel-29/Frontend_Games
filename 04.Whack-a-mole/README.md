@@ -65,11 +65,9 @@ start Whack-a-mole.html
 * 🏆 Try to beat your **best score**
 
 ---
+🌐 Live Demo
 
-## 🌐 Live Demo
-
-🚀 Play the game here: [Click to Play]([https://your-live-demo-link.netlify.app](http://frontendgame-whackamole-byvishwa.netlify.app/))
-
+🚀 Play the game here: [Whack-a-mole](https://frontendgame-whackamole-byvishwa.netlify.app/)
 ---
 
 ## 💡 Future Improvements
