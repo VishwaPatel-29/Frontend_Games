@@ -69,6 +69,7 @@ start Whack-a-mole.html
 
 🚀 Play the game here: [Whack-a-mole](https://frontendgame-whackamole-byvishwa.netlify.app/)
 ---
+---
 
 ## 💡 Future Improvements
 
