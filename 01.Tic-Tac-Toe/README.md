@@ -47,7 +47,7 @@ git clone https://github.com/your-username/tic-tac-toe.git
 cd tic-tac-toe
 ```
 
-3. Open `index.html` in your browser:
+3. Open `Tic-Tac-Toe.html` in your browser:
 
 ```bash
 start Tic_Tac_Toe.html
