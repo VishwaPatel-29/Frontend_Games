@@ -65,6 +65,12 @@ start Click_Counter.html
 
 ---
 
+🌐 Live Demo
+
+🚀 Play the game here: [Click-Counter](https://frontendgame-clickcounter-byvishwa.netlify.app/)
+---
+---
+
 ## 💡 Future Improvements
 
 * 🎵 Add sound effects
