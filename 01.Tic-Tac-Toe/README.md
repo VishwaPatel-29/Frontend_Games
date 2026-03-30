@@ -18,7 +18,7 @@ A simple and interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaS
 
 * 🌐 HTML5
 * 🎨 CSS3
-* ⚙️ JavaScript (Vanilla JS)
+* ⚙️ JavaScript 
 
 ---
 
