@@ -56,19 +56,19 @@ start Typing-Speed-Test.html
 
 ---
 
-## 🌐 Live Demo
-
-🚀 Try it here: [Typing Speed Test](https://frontendgame-typingspeedtest-byvishwa.netlify.app/)
-
----
-
-## 🎮 How to Use
+## 🎮 How to Play
 
 * ▶️ Click on **Start Test**
 * ⌨️ Start typing the given text
 * 📊 Track your **WPM** and **Accuracy** in real-time
 * ⏱️ Complete the test within **45 seconds**
 * 🏆 Try to beat your **best WPM**
+
+---
+
+## 🌐 Live Demo
+
+🚀 Try it here: [Typing Speed Test](https://frontendgame-typingspeedtest-byvishwa.netlify.app/)
 
 ---
 
