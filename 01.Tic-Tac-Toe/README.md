@@ -26,7 +26,7 @@ A simple and interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaS
 
 ```
 📦 Tic-Tac-Toe
- ┣ 📜 index.html
+ ┣ 📜 Tic_Tac_Toe.html
  ┣ 📜 Tic_Tac_Toe.css
  ┗ 📜 Tic_Tac_Toe.js
 ```
