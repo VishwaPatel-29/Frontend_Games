@@ -62,7 +62,12 @@ start Colour_Guessing.html
 * 🧩 Click on the correct color box that matches the RGB value
 * 🎯 Choose between **Easy (fewer options)** and **Hard (more options)**
 * 🔥 Build your streak by guessing correctly
+* 
+---
+🌐 Live Demo
 
+🚀 Play the game here: [Whack-a-mole](https://frontendgame-colorguess-byvishwa.netlify.app/)
+---
 ---
 
 ## 💡 Future Improvements
