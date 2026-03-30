@@ -63,6 +63,11 @@ start Tic_Tac_Toe.html
 * 🏆 First player to align 3 marks (row, column, or diagonal) wins
 
 ---
+🌐 Live Demo
+
+🚀 Play the game here: [Tic-Tac-Toe](https://fontendgame-tictactoe-byvishwa.netlify.app/)
+---
+---
 
 ## 💡 Future Improvements
 
