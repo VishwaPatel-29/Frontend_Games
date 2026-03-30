@@ -49,7 +49,7 @@ git clone https://github.com/your-username/memory-flip-card-game.git
 cd memory-flip-card-game
 ```
 
-3. Open `index.html` in your browser:
+3. Open `Memory_FlipCard.html` in your browser:
 
 ```bash
 start Memory_FlipCard.html
